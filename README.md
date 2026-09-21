@@ -18,11 +18,11 @@ The server handles multiple client connections concurrently using threading, and
 ## Screenshots
 
 **Main Client Window**
-![Main Client Window](screenshots/Client GUI.png)
+![Main Client Window](screenshots/Client_GUI.png)
 Main application window with movie selection dropdown and controls to refresh, view, add, edit, delete, and buy tickets.
 
 **Add Movie Form**
-![Add Movie Form](screenshots/Client GUI Movie.png)
+![Add Movie Form](screenshots/Client_GUI_Movie.png)
 Form for adding a new movie listing, capturing title, cinema room, release and end dates, ticket count, and price.
 
 ## Tech Stack
@@ -52,9 +52,6 @@ Form for adding a new movie listing, capturing title, cinema room, release and e
 
 The client sends action-based requests (e.g. `get_movies`, `add_movie`, `buy_ticket`) to the server as JSON over a socket connection. The server processes each request against the SQLite database and returns a JSON response indicating success or failure, along with any relevant data.
 
-## Notes
-
-This project was built to demonstrate socket-based client-server architecture, database integration, and GUI development in Python.
 ## Notes
 
 This project was built to demonstrate socket-based client-server architecture, database integration, and GUI development in Python.
