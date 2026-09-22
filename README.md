@@ -55,3 +55,15 @@ The client sends action-based requests (e.g. `get_movies`, `add_movie`, `buy_tic
 ## Notes
 
 This project was built to demonstrate socket-based client-server architecture, database integration, and GUI development in Python.
+
+## Developer
+
+**Kayla Abdul Ganie**
+
+BSc Information Technology – Software Engineering  
+
+Eduvos
+
+GitHub: [@kayla014](https://github.com/kayla014)
+kayla014 - Overview
+BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
